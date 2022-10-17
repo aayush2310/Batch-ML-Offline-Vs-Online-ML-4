@@ -1,0 +1,15 @@
+Production is basically the server on which our code is going to be run.
+
+ML model behaves differently on the server.
+
+Batch learning is the conventional way of training the ML model where we use the whole data to train the ML model.So generally the data is huge so if i train it on server 
+then it is costly and time taking so it is done offline.
+
+Then the model is put on production environment.
+
+Problem:-The model has become static now,whatever it had learnt,it will not learn anything else,no evolution.
+
+
+so,online learning is deployed.
+
+
